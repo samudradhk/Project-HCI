@@ -14,7 +14,7 @@ body{
 
 .nav-link{
     display: flex;
-    font-size: 20px;
+    font-size: 32px;
 }
 
 .nav-link a{
@@ -23,7 +23,7 @@ body{
 }
 
 .nav-link li{
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 .nav-link a:hover{
